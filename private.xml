@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>Eject Key to ForceQuit (Cmd+Option_L+Esc)</name>
+    <appendix>For MacBook Pro</appendix>
+    <identifier>private.macbookpro_eject_force_quit</identifier>
+    <autogen>--ConsumerToKey--ConsumerKeyCode::EJECT, KeyCode::ESCAPE,  ModifierFlag::COMMAND_L | ModifierFlag::OPTION_L</autogen>
+  </item>  
+</root>
